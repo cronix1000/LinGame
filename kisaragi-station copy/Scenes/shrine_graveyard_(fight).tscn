@@ -1,0 +1,5 @@
+[gd_scene format=3 uid="uid://c5ap64nwbwwmw"]
+
+[node name="Shrine_Graveyard (Fight)" type="Node2D" unique_id=1393236585]
+
+[node name="Torii" type="TileMapLayer" parent="." unique_id=620627661]
