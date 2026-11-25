@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bcnu6p5by5r20"
-path="res://.godot/imported/Beamtop7.png-bb1c037edc7b1b29b761f55d0112c226.ctex"
+path="res://.godot/imported/Beamtop7.png-e9f01c9cc60785d4643d6627edbe9f37.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/GuttyKreum_JapaneseBar/DayTiles/Animated/Smallwindowlightbeam/Beamtop7.png"
-dest_files=["res://.godot/imported/Beamtop7.png-bb1c037edc7b1b29b761f55d0112c226.ctex"]
+source_file="res://Art/GuttyKreum_JapaneseBar/DayTiles/Animated/Smallwindowlightbeam/Beamtop7.png"
+dest_files=["res://.godot/imported/Beamtop7.png-e9f01c9cc60785d4643d6627edbe9f37.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cmrooef7w0epl"
-path="res://.godot/imported/Tilemap.png-6d36319b27b67d3cee2cd38b6819073c.ctex"
+path="res://.godot/imported/Tilemap.png-e96b6fd5ba1edc1401b6eccf4ab746d0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Dark Tokyo/GuttyKreum_DarkTokyov7/Tilemap/Tilemap.png"
-dest_files=["res://.godot/imported/Tilemap.png-6d36319b27b67d3cee2cd38b6819073c.ctex"]
+source_file="res://Art/Dark Tokyo/GuttyKreum_DarkTokyov7/Tilemap/Tilemap.png"
+dest_files=["res://.godot/imported/Tilemap.png-e96b6fd5ba1edc1401b6eccf4ab746d0.ctex"]
 
 [params]
 

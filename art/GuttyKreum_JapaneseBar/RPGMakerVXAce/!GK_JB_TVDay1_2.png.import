@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dxsmafr330but"
-path="res://.godot/imported/!GK_JB_TVDay1_2.png-a2c33db4b9ee5faaf708462764c24f7d.ctex"
+path="res://.godot/imported/!GK_JB_TVDay1_2.png-923076d2106685f8e49abc360a07e4dc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/GuttyKreum_JapaneseBar/RPGMakerVXAce/!GK_JB_TVDay1_2.png"
-dest_files=["res://.godot/imported/!GK_JB_TVDay1_2.png-a2c33db4b9ee5faaf708462764c24f7d.ctex"]
+source_file="res://Art/GuttyKreum_JapaneseBar/RPGMakerVXAce/!GK_JB_TVDay1_2.png"
+dest_files=["res://.godot/imported/!GK_JB_TVDay1_2.png-923076d2106685f8e49abc360a07e4dc.ctex"]
 
 [params]
 

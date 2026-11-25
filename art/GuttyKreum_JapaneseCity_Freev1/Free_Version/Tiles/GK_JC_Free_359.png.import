@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cuk1qa1a2dbv0"
-path="res://.godot/imported/GK_JC_Free_359.png-b0cc2973effc776caa982a5fcdff9802.ctex"
+path="res://.godot/imported/GK_JC_Free_359.png-a7290f56f0598fac003e29cafea4e81a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Free_Version/Tiles/GK_JC_Free_359.png"
-dest_files=["res://.godot/imported/GK_JC_Free_359.png-b0cc2973effc776caa982a5fcdff9802.ctex"]
+source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Free_Version/Tiles/GK_JC_Free_359.png"
+dest_files=["res://.godot/imported/GK_JC_Free_359.png-a7290f56f0598fac003e29cafea4e81a.ctex"]
 
 [params]
 

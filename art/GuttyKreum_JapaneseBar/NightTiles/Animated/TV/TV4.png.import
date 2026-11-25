@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://crxksfn7mi1es"
-path="res://.godot/imported/TV4.png-2061a58b09a987670be8dfe32701d77c.ctex"
+path="res://.godot/imported/TV4.png-c0a8a91eaa310ae11f84ed65a5364685.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/GuttyKreum_JapaneseBar/NightTiles/Animated/TV/TV4.png"
-dest_files=["res://.godot/imported/TV4.png-2061a58b09a987670be8dfe32701d77c.ctex"]
+source_file="res://Art/GuttyKreum_JapaneseBar/NightTiles/Animated/TV/TV4.png"
+dest_files=["res://.godot/imported/TV4.png-c0a8a91eaa310ae11f84ed65a5364685.ctex"]
 
 [params]
 

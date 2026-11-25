@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c8jklerxfl6ev"
-path="res://.godot/imported/GK_DC_A5_2.png-cc50b732fe24f5b133e09019f1bc907e.ctex"
+path="res://.godot/imported/GK_DC_A5_2.png-1583b600c74dc504a87a2bbfa62945bd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Dark Tokyo/GuttyKreum_DarkTokyov7/RPGMakerVXAce/GK_DC_A5_2.png"
-dest_files=["res://.godot/imported/GK_DC_A5_2.png-cc50b732fe24f5b133e09019f1bc907e.ctex"]
+source_file="res://Art/Dark Tokyo/GuttyKreum_DarkTokyov7/RPGMakerVXAce/GK_DC_A5_2.png"
+dest_files=["res://.godot/imported/GK_DC_A5_2.png-1583b600c74dc504a87a2bbfa62945bd.ctex"]
 
 [params]
 

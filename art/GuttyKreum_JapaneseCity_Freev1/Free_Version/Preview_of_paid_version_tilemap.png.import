@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwp5f2h33i6mf"
-path="res://.godot/imported/Preview_of_paid_version_tilemap.png-b4e60250454f5e21218c5e92945abb59.ctex"
+path="res://.godot/imported/Preview_of_paid_version_tilemap.png-df95b573c62c22cc6a3c096d9d4a165e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Free_Version/Preview_of_paid_version_tilemap.png"
-dest_files=["res://.godot/imported/Preview_of_paid_version_tilemap.png-b4e60250454f5e21218c5e92945abb59.ctex"]
+source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Free_Version/Preview_of_paid_version_tilemap.png"
+dest_files=["res://.godot/imported/Preview_of_paid_version_tilemap.png-df95b573c62c22cc6a3c096d9d4a165e.ctex"]
 
 [params]
 

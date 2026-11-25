@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b77b2kqwji0u0"
-path="res://.godot/imported/Leftlights1.png-afc8494ede9b9a65901fb7b741d1693f.ctex"
+path="res://.godot/imported/Leftlights1.png-a03836778ce59c9d903bba393abba8be.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/GuttyKreum_JapaneseBar/DayTiles/Animated/Stringoflights/Leftlights1.png"
-dest_files=["res://.godot/imported/Leftlights1.png-afc8494ede9b9a65901fb7b741d1693f.ctex"]
+source_file="res://Art/GuttyKreum_JapaneseBar/DayTiles/Animated/Stringoflights/Leftlights1.png"
+dest_files=["res://.godot/imported/Leftlights1.png-a03836778ce59c9d903bba393abba8be.ctex"]
 
 [params]
 
