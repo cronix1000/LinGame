@@ -124,21 +124,21 @@ animations = [{
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_o2m6f"]
 size = Vector2(21, 19)
 
-[node name="Player" type="Node2D" unique_id=2062489982]
-
-[node name="CharacterBody2D" type="CharacterBody2D" parent="." unique_id=1883699681]
+[node name="CharacterBody2D" type="CharacterBody2D" unique_id=1883699681 groups=["player"]]
 script = ExtResource("1_ktl23")
 
-[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CharacterBody2D" unique_id=952058736]
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="." unique_id=952058736]
 position = Vector2(-0.99999976, -0.99999976)
 scale = Vector2(0.65625, 0.6093751)
 sprite_frames = SubResource("SpriteFrames_tfa4j")
 animation = &"male_1_walk_forward"
 frame_progress = 0.5941386
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="CharacterBody2D" unique_id=288748412]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=288748412]
 position = Vector2(-1, -1)
 shape = SubResource("RectangleShape2D_o2m6f")
 
-[node name="Camera2D" type="Camera2D" parent="CharacterBody2D" unique_id=916357497]
+[node name="Camera2D" type="Camera2D" parent="." unique_id=916357497]
 zoom = Vector2(1.62, 1.62)
+
+[node name="Player" type="Node2D" parent="." unique_id=2062489982]

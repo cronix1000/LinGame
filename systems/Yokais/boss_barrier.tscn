@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://hwr1ndbe8t7m"]
+
+[ext_resource type="Script" uid="uid://bbsu2sbtlo2y4" path="res://systems/Yokais/boss_barrier.gd" id="1_1sg4p"]
+
+[node name="BossBarrier" type="Node2D" unique_id=660088491]
+script = ExtResource("1_1sg4p")

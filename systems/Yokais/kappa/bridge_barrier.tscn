@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://5e21yk688rb0"]
+
+[ext_resource type="Script" uid="uid://b5foyg5jkxxwb" path="res://systems/Yokais/kappa/bridge_barrier.gd" id="1_ly0f4"]
+
+[node name="BridgeBarrier" type="Node2D" unique_id=1558075028]
+script = ExtResource("1_ly0f4")
