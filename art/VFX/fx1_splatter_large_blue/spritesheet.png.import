@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bvcm2mody2ue2"
-path="res://.godot/imported/spritesheet.png-fa87525a61b9c9def8ae1020db3bac3b.ctex"
+path="res://.godot/imported/spritesheet.png-bb868b191651083bb58747d1f236c395.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/VFX/fx1_splatter_large_blue/spritesheet.png"
-dest_files=["res://.godot/imported/spritesheet.png-fa87525a61b9c9def8ae1020db3bac3b.ctex"]
+source_file="res://art/VFX/fx1_splatter_large_blue/spritesheet.png"
+dest_files=["res://.godot/imported/spritesheet.png-bb868b191651083bb58747d1f236c395.ctex"]
 
 [params]
 

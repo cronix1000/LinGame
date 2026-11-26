@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://devhsh2kk8qlf"
-path="res://.godot/imported/PaperPattern2.png-1aede402b1743cae40bf2cd0b8c6202a.ctex"
+path="res://.godot/imported/PaperPattern2.png-3914a9a4f34b903bfcbb6baac961ab95.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2 2/AnimatedTiles/Doors/PaperPattern/PaperPattern2.png"
-dest_files=["res://.godot/imported/PaperPattern2.png-1aede402b1743cae40bf2cd0b8c6202a.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2 2/AnimatedTiles/Doors/PaperPattern/PaperPattern2.png"
+dest_files=["res://.godot/imported/PaperPattern2.png-3914a9a4f34b903bfcbb6baac961ab95.ctex"]
 
 [params]
 

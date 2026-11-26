@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://luuaf5ny6t8g"
-path="res://.godot/imported/Fountaintop2.png-a4eb82936cd6a52603713b31246e2d32.ctex"
+path="res://.godot/imported/Fountaintop2.png-5bd8fa6bcddc0f5d91011ca2437233fc.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/FullFountain/Fountaintop2.png"
-dest_files=["res://.godot/imported/Fountaintop2.png-a4eb82936cd6a52603713b31246e2d32.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/FullFountain/Fountaintop2.png"
+dest_files=["res://.godot/imported/Fountaintop2.png-5bd8fa6bcddc0f5d91011ca2437233fc.ctex"]
 
 [params]
 

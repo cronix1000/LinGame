@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dk04ry7t47crk"
-path="res://.godot/imported/Heater5.png-3d0c346b9d0dbc6ea561b77e157dd0f2.ctex"
+path="res://.godot/imported/Heater5.png-f6d9c3db248bcd7673891d5b4cbc865d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseBar/DayTiles/Animated/Heater/Heater5.png"
-dest_files=["res://.godot/imported/Heater5.png-3d0c346b9d0dbc6ea561b77e157dd0f2.ctex"]
+source_file="res://art/GuttyKreum_JapaneseBar/DayTiles/Animated/Heater/Heater5.png"
+dest_files=["res://.godot/imported/Heater5.png-f6d9c3db248bcd7673891d5b4cbc865d.ctex"]
 
 [params]
 

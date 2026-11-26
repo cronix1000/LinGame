@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://3jvgssdb2bji"
-path="res://.godot/imported/Vent.png-ddbb0b49c3e9ff4822a4ef4263f13b23.ctex"
+path="res://.godot/imported/Vent.png-93cd09cb311ecb3875601b9c4771d424.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseBar/NightTiles/Animated/Vent/Vent.png"
-dest_files=["res://.godot/imported/Vent.png-ddbb0b49c3e9ff4822a4ef4263f13b23.ctex"]
+source_file="res://art/GuttyKreum_JapaneseBar/NightTiles/Animated/Vent/Vent.png"
+dest_files=["res://.godot/imported/Vent.png-93cd09cb311ecb3875601b9c4771d424.ctex"]
 
 [params]
 

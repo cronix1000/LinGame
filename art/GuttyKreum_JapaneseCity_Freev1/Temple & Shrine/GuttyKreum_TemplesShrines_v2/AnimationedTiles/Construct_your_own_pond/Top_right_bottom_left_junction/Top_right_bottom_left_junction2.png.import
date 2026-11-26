@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://mux62phs1da5"
-path="res://.godot/imported/Top_right_bottom_left_junction2.png-875438cf71478045879abf2df248e687.ctex"
+path="res://.godot/imported/Top_right_bottom_left_junction2.png-b4b94da3991454fe4d1da1b3ee51b366.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/Construct_your_own_pond/Top_right_bottom_left_junction/Top_right_bottom_left_junction2.png"
-dest_files=["res://.godot/imported/Top_right_bottom_left_junction2.png-875438cf71478045879abf2df248e687.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/Construct_your_own_pond/Top_right_bottom_left_junction/Top_right_bottom_left_junction2.png"
+dest_files=["res://.godot/imported/Top_right_bottom_left_junction2.png-b4b94da3991454fe4d1da1b3ee51b366.ctex"]
 
 [params]
 

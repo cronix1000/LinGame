@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://qcotyxp2rmjg"
-path="res://.godot/imported/!GK_ZG_SpinningKoi.png-5c000700e33da4b31431dc1d00385c2f.ctex"
+path="res://.godot/imported/!GK_ZG_SpinningKoi.png-6d798cf8f1542c9b1d91c62b3a9e958a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/RPGMakerVXAce/!GK_ZG_SpinningKoi.png"
-dest_files=["res://.godot/imported/!GK_ZG_SpinningKoi.png-5c000700e33da4b31431dc1d00385c2f.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/RPGMakerVXAce/!GK_ZG_SpinningKoi.png"
+dest_files=["res://.godot/imported/!GK_ZG_SpinningKoi.png-6d798cf8f1542c9b1d91c62b3a9e958a.ctex"]
 
 [params]
 

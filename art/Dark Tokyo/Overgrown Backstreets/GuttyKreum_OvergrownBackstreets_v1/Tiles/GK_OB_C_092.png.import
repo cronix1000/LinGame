@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b2jodgr1b1ytm"
-path="res://.godot/imported/GK_OB_C_092.png-6a2bb04affae5d9af74f99a6686f4a97.ctex"
+path="res://.godot/imported/GK_OB_C_092.png-8bcbd8c15e88c7911352422c6717a928.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Dark Tokyo/Overgrown Backstreets/GuttyKreum_OvergrownBackstreets_v1/Tiles/GK_OB_C_092.png"
-dest_files=["res://.godot/imported/GK_OB_C_092.png-6a2bb04affae5d9af74f99a6686f4a97.ctex"]
+source_file="res://art/Dark Tokyo/Overgrown Backstreets/GuttyKreum_OvergrownBackstreets_v1/Tiles/GK_OB_C_092.png"
+dest_files=["res://.godot/imported/GK_OB_C_092.png-8bcbd8c15e88c7911352422c6717a928.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cvuyl12m6j580"
-path="res://.godot/imported/Topright.png-742305b3a4cc380c8f315a3e63736608.ctex"
+path="res://.godot/imported/Topright.png-875e6d6ea0f31368e476aae202a055e5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseBar/NightTiles/Animated/Dancefloor/Topright.png"
-dest_files=["res://.godot/imported/Topright.png-742305b3a4cc380c8f315a3e63736608.ctex"]
+source_file="res://art/GuttyKreum_JapaneseBar/NightTiles/Animated/Dancefloor/Topright.png"
+dest_files=["res://.godot/imported/Topright.png-875e6d6ea0f31368e476aae202a055e5.ctex"]
 
 [params]
 

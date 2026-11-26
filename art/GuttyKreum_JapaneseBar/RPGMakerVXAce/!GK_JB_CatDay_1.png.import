@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2dod2uuvvme3"
-path="res://.godot/imported/!GK_JB_CatDay_1.png-84a4bba2f645a45bb59902ad0379f111.ctex"
+path="res://.godot/imported/!GK_JB_CatDay_1.png-84d7e29825c211166e09d34b026c2abe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseBar/RPGMakerVXAce/!GK_JB_CatDay_1.png"
-dest_files=["res://.godot/imported/!GK_JB_CatDay_1.png-84a4bba2f645a45bb59902ad0379f111.ctex"]
+source_file="res://art/GuttyKreum_JapaneseBar/RPGMakerVXAce/!GK_JB_CatDay_1.png"
+dest_files=["res://.godot/imported/!GK_JB_CatDay_1.png-84d7e29825c211166e09d34b026c2abe.ctex"]
 
 [params]
 

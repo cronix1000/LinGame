@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwgt3ovd5wxt2"
-path="res://.godot/imported/Cat5.png-52bb641025ce2e8ae485cbfedb5d5233.ctex"
+path="res://.godot/imported/Cat5.png-333b0598d7c66afd595ec710010be7cf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseBar/DayTiles/Animated/Cat/Cat5.png"
-dest_files=["res://.godot/imported/Cat5.png-52bb641025ce2e8ae485cbfedb5d5233.ctex"]
+source_file="res://art/GuttyKreum_JapaneseBar/DayTiles/Animated/Cat/Cat5.png"
+dest_files=["res://.godot/imported/Cat5.png-333b0598d7c66afd595ec710010be7cf.ctex"]
 
 [params]
 

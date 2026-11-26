@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cj2q487etjukk"
-path="res://.godot/imported/Prefabpond_bottomright1.png-b75003ac229c475b0749c9a1542ced4a.ctex"
+path="res://.godot/imported/Prefabpond_bottomright1.png-babf8a276417b4726e091b99e5addf7e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/PrefabPond/Bottomright/Prefabpond_bottomright1.png"
-dest_files=["res://.godot/imported/Prefabpond_bottomright1.png-b75003ac229c475b0749c9a1542ced4a.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/PrefabPond/Bottomright/Prefabpond_bottomright1.png"
+dest_files=["res://.godot/imported/Prefabpond_bottomright1.png-babf8a276417b4726e091b99e5addf7e.ctex"]
 
 [params]
 

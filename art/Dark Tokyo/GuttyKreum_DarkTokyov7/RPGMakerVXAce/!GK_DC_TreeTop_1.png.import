@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://isse6ermpqqx"
-path="res://.godot/imported/!GK_DC_TreeTop_1.png-2bb52284cf9322ca4aef4a04db348b18.ctex"
+path="res://.godot/imported/!GK_DC_TreeTop_1.png-9344fdb95ae7777cf6b171fa435a2f12.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Dark Tokyo/GuttyKreum_DarkTokyov7/RPGMakerVXAce/!GK_DC_TreeTop_1.png"
-dest_files=["res://.godot/imported/!GK_DC_TreeTop_1.png-2bb52284cf9322ca4aef4a04db348b18.ctex"]
+source_file="res://art/Dark Tokyo/GuttyKreum_DarkTokyov7/RPGMakerVXAce/!GK_DC_TreeTop_1.png"
+dest_files=["res://.godot/imported/!GK_DC_TreeTop_1.png-9344fdb95ae7777cf6b171fa435a2f12.ctex"]
 
 [params]
 

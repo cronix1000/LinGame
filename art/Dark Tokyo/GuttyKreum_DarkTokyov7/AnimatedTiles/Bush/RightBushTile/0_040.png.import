@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bm82vhc60urcn"
-path="res://.godot/imported/0_040.png-39184f91b9106fcb9bd97dee64bc1138.ctex"
+path="res://.godot/imported/0_040.png-0bf0b53cfe6000a345c81210b68ea9fe.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/Dark Tokyo/GuttyKreum_DarkTokyov7/AnimatedTiles/Bush/RightBushTile/0_040.png"
-dest_files=["res://.godot/imported/0_040.png-39184f91b9106fcb9bd97dee64bc1138.ctex"]
+source_file="res://art/Dark Tokyo/GuttyKreum_DarkTokyov7/AnimatedTiles/Bush/RightBushTile/0_040.png"
+dest_files=["res://.godot/imported/0_040.png-0bf0b53cfe6000a345c81210b68ea9fe.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbufunk1kftkb"
-path="res://.godot/imported/preview.png-433658bc3870a23c70dcd81ff216d19e.ctex"
+path="res://.godot/imported/preview.png-32f2c60ead5a76920f800e89210e1aa5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2/fae552ced284c044ea861ff40e20e3b6/preview.png"
-dest_files=["res://.godot/imported/preview.png-433658bc3870a23c70dcd81ff216d19e.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2/fae552ced284c044ea861ff40e20e3b6/preview.png"
+dest_files=["res://.godot/imported/preview.png-32f2c60ead5a76920f800e89210e1aa5.ctex"]
 
 [params]
 

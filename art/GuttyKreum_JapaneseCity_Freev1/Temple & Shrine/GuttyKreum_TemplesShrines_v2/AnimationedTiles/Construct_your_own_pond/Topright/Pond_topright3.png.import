@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bpdek2o86p2og"
-path="res://.godot/imported/Pond_topright3.png-97c7c484ca3d986ec6b5a7fc76b5d438.ctex"
+path="res://.godot/imported/Pond_topright3.png-265f191a2d067359f683a9c100c9707f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/Construct_your_own_pond/Topright/Pond_topright3.png"
-dest_files=["res://.godot/imported/Pond_topright3.png-97c7c484ca3d986ec6b5a7fc76b5d438.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesShrines_v2/AnimationedTiles/Construct_your_own_pond/Topright/Pond_topright3.png"
+dest_files=["res://.godot/imported/Pond_topright3.png-265f191a2d067359f683a9c100c9707f.ctex"]
 
 [params]
 

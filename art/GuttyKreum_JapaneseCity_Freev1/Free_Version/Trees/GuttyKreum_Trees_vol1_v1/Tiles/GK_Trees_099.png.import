@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dywnw1j7shfl8"
-path="res://.godot/imported/GK_Trees_099.png-e1d716b218dd9789741c6c3748150fa9.ctex"
+path="res://.godot/imported/GK_Trees_099.png-7e09c6a4c9a76734eb1310dd364b49a6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Free_Version/Trees/GuttyKreum_Trees_vol1_v1/Tiles/GK_Trees_099.png"
-dest_files=["res://.godot/imported/GK_Trees_099.png-e1d716b218dd9789741c6c3748150fa9.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Free_Version/Trees/GuttyKreum_Trees_vol1_v1/Tiles/GK_Trees_099.png"
+dest_files=["res://.godot/imported/GK_Trees_099.png-7e09c6a4c9a76734eb1310dd364b49a6.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b7lyjh3fhkrf6"
-path="res://.godot/imported/!GK_TS_Doors.png-1bc585e04bf115fc4da1a2715878f922.ctex"
+path="res://.godot/imported/!GK_TS_Doors.png-8139a9d342905bfdd7c5e96e4a68d9bb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2 2/RPGMakerVXAce/!GK_TS_Doors.png"
-dest_files=["res://.godot/imported/!GK_TS_Doors.png-1bc585e04bf115fc4da1a2715878f922.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2 2/RPGMakerVXAce/!GK_TS_Doors.png"
+dest_files=["res://.godot/imported/!GK_TS_Doors.png-8139a9d342905bfdd7c5e96e4a68d9bb.ctex"]
 
 [params]
 

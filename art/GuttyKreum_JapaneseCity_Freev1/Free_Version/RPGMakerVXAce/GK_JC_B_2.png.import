@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://6qsbcf1w8lp6"
-path="res://.godot/imported/GK_JC_B_2.png-48cf3cd90833087869158b4382413019.ctex"
+path="res://.godot/imported/GK_JC_B_2.png-c3a8022841e4da1721a4b7d137d35b06.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Free_Version/RPGMakerVXAce/GK_JC_B_2.png"
-dest_files=["res://.godot/imported/GK_JC_B_2.png-48cf3cd90833087869158b4382413019.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Free_Version/RPGMakerVXAce/GK_JC_B_2.png"
+dest_files=["res://.godot/imported/GK_JC_B_2.png-c3a8022841e4da1721a4b7d137d35b06.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5rb67nbaseu5"
-path="res://.godot/imported/WoodenLattice2.png-7064691539cb95e32f7dc92b24e7ec7e.ctex"
+path="res://.godot/imported/WoodenLattice2.png-5946af85cd7a8f07930bd2c9e513589c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2 2/AnimatedTiles/Doors/WoodenLattice/WoodenLattice2.png"
-dest_files=["res://.godot/imported/WoodenLattice2.png-7064691539cb95e32f7dc92b24e7ec7e.ctex"]
+source_file="res://art/GuttyKreum_JapaneseCity_Freev1/Temple & Shrine/GuttyKreum_TemplesandShrinesv2 2/AnimatedTiles/Doors/WoodenLattice/WoodenLattice2.png"
+dest_files=["res://.godot/imported/WoodenLattice2.png-5946af85cd7a8f07930bd2c9e513589c.ctex"]
 
 [params]
 
